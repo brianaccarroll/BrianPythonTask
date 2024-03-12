@@ -1,0 +1,12 @@
+--------------------------------------------------------------------
+Total number of tasks assigned to admin: 	2
+Percentage of the tasks assigned to admin: 	66.67%
+Percentage of the completed tasks that assigned to admin: 	50.00%
+Percentage of the uncompleted tasks that assigned to admin: 	50.00%
+Percentage of the overdue tasks that assigned to admin: 	0.00%
+--------------------------------------------------------------------
+Total number of tasks assigned to Brian: 	1
+Percentage of the tasks assigned to Brian: 	33.33%
+Percentage of the completed tasks that assigned to Brian: 	100.00%
+Percentage of the uncompleted tasks that assigned to Brian: 	0.00%
+Percentage of the overdue tasks that assigned to Brian: 	0.00%
