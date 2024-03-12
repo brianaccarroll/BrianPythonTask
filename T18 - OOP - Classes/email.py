@@ -1,4 +1,4 @@
-### --- OOP Email Simulator --- ###
+# --- OOP Email Simulator --- #
 
 # --- Email Class --- #
 # Create the class, constructor and methods to create a new Email object.
@@ -24,12 +24,15 @@ class Email:
         self.has_been_read = True
         print(f"Email from {self.email_address} is marked as read {self.has_been_read}")
 
+    # Get method to get the email subject line
     def get_email_subject(self):
         return self.subject_line
 
+    # Get method to get the email address
     def get_email_address(self):
         return self.email_address
 
+    # Get method to get the email content
     def get_email_content(self):
         return self.email_content
 
